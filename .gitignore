@@ -334,3 +334,22 @@ dist/
 
 # Azure DevOps extension packages
 *.vsix
+
+/.omx/logs/tmux-hook-2026-04-14.jsonl
+/.omx/logs/tmux-hook-2026-04-15.jsonl
+/.omx/logs/tmux-hook-2026-04-27.jsonl
+/.omx/logs/turns-2026-04-14.jsonl
+/.omx/logs/turns-2026-04-15.jsonl
+/.omx/logs/turns-2026-04-27.jsonl
+/.omx/plans/prd-src-modern-stabilization-and-features-2026-04-14.md
+/.omx/plans/test-spec-src-modern-stabilization-and-features-2026-04-14.md
+/.omx/state/current-task-baseline.json
+/.omx/state/hud-state.json
+/.omx/state/notify-hook-state.json
+/.omx/state/team-leader-nudge.json
+/.omx/state/tmux-hook-state.json
+/.omx/az-device-login.err
+/.omx/az-device-login.out
+/.omx/az-device-login.pid
+/.omx/metrics.json
+/.omx/notepad.md
